@@ -1,7 +1,7 @@
 # React Context Basics
 
 
-## React Context Pattern
+### React Context Pattern for Consumer w/ Function
 ```
 class Parent extends Component {
   state = { name: 'Mike' }
