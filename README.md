@@ -2,7 +2,7 @@
 
 
 ## React Context Pattern
-
+```
 class Parent extends Component {
   state = { name: 'Mike' }
 
@@ -31,3 +31,4 @@ const App = () => {
     </Parent>
   )
 }
+```
